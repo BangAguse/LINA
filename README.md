@@ -3,9 +3,8 @@
   <!-- Banner -->
   <img src="banner.png" alt="LINA Banner" width="100%" />
 
-  <h1>LINA</h1>
-  <h2>Learning Interconnected Network Analyzer</h2>
-  <h3>“Aku bikin LINA _(Learning Interconnected Network Analyzer)_ terinspirasi dari ibuku, Herlina Ningsi. Karena beliau pelindungku di dunia nyata, software ini aku dedikasikan untuk jadi pelindung di dunia digital.” 🤍🛡️</h3>
+  <h1>Learning Interconnected Network Analyzer</h1>
+  <h2>“Aku bikin LINA (Learning Interconnected Network Analyzer) terinspirasi dari ibuku, Herlina Ningsi. Karena beliau pelindungku di dunia nyata, software ini aku dedikasikan untuk jadi pelindung di dunia digital.” 🤍🛡️</h2>
 
   <p>
     AI lokal berbasis GUI untuk memahami jaringan di sekitar perangkat secara aman, pasif, dan manusiawi.
