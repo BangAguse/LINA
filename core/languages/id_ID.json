@@ -1,0 +1,90 @@
+{
+  "language": "Indonesian",
+  "locale": "id_ID",
+  "strings": {
+    "app_name": "LINA",
+    "app_subtitle": "Learning Interconnected Network Analyzer",
+    
+    "btn_start": "Mulai Pengumpulan",
+    "btn_stop": "Hentikan Pengumpulan",
+    "btn_refresh": "Segarkan Sekarang",
+    "btn_send": "Kirim",
+    "btn_settings": "Pengaturan",
+    "btn_retry": "Coba Lagi",
+    "btn_cancel": "Batal",
+    "btn_grant": "Izinkan",
+    "btn_deny": "Tolak",
+    
+    "status_active": "🟢 Aktif (Mengumpulkan data)",
+    "status_idle": "🟡 Idle",
+    "status_error": "🔴 Error",
+    "status_off": "⚫ Mati",
+    
+    "label_uptime": "Waktu berjalan",
+    "label_last_scan": "Scan terakhir",
+    "label_networks": "Jaringan",
+    "label_devices": "Perangkat",
+    "label_signal": "Sinyal rata-rata",
+    "label_security": "Status Keamanan",
+    "label_activity": "Aktivitas Terbaru",
+    "label_chat": "Chat dengan LINA",
+    "label_input": "Ketik pertanyaan Anda...",
+    "label_network_count": "Jaringan terdeteksi",
+    "label_device_count": "Perangkat di sekitar",
+    "label_best_signal": "Sinyal terbaik",
+    "label_worst_signal": "Sinyal terburuk",
+    "label_type": "Tipe",
+    "label_wpa2_plus": "WPA2+",
+    "label_wpa2": "WPA2",
+    "label_open": "Terbuka",
+    
+    "msg_welcome": "Halo! Saya LINA, asisten jaringan Anda. Data siap untuk dianalisis. Apa yang ingin Anda ketahui?",
+    "msg_error_network": "🔴 Error mengumpulkan data. Periksa koneksi jaringan Anda.",
+    "msg_error_permission": "🔒 Izin diperlukan. LINA membutuhkan izin pemindaian jaringan.",
+    "msg_error_ai": "⚠️ Respons AI gagal. Coba lagi nanti.",
+    "msg_insufficient_data": "Data tidak tersedia. Mulai pengumpulan data terlebih dahulu.",
+    
+    "language_menu": "Pilih Bahasa",
+    "lang_indonesian": "🇮🇩 Bahasa Indonesia",
+    "lang_english": "🇬🇧 English",
+    "lang_arabic": "🇸🇦 العربية",
+    
+    "tab_overview": "Ringkasan",
+    "tab_network_data": "Data Jaringan",
+    "tab_chat": "Chat",
+    
+    "title_main_window": "LINA - Learning Interconnected Network Analyzer",
+    "title_settings": "Pengaturan",
+    "title_about": "Tentang LINA",
+    
+    "network_summary": "Ringkasan Jaringan",
+    "device_summary": "Ringkasan Perangkat",
+    "recent_activity": "Aktivitas Terbaru",
+    "wifi_networks": "Jaringan WiFi",
+    "nearby_devices": "Perangkat Terdekat",
+    
+    "device_type_smartphone": "Smartphone",
+    "device_type_laptop": "Laptop",
+    "device_type_iot": "Perangkat IoT",
+    "device_type_tablet": "Tablet",
+    "device_type_other": "Lainnya",
+    
+    "info_bssid": "BSSID",
+    "info_signal": "Sinyal",
+    "info_frequency": "Frekuensi",
+    "info_security": "Keamanan",
+    "info_mac": "MAC",
+    "info_ip": "IP Address",
+    "info_hostname": "Nama Host",
+    
+    "about_version": "Versi 1.0.0",
+    "about_description": "LINA adalah alat analisis jaringan yang defensif dan read-only, menggunakan AI lokal untuk menganalisis metadata jaringan Anda secara etis dan bertanggung jawab.",
+    "about_rights": "© 2026 LINA Project. Hak Cipta Dilindungi.",
+    
+    "loading": "Memuat...",
+    "connecting": "Terhubung...",
+    "collecting": "Mengumpulkan data...",
+    "processing": "Memproses...",
+    "ready": "Siap"
+  }
+}

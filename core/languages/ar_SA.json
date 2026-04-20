@@ -1,0 +1,91 @@
+{
+  "language": "العربية",
+  "locale": "ar_SA",
+  "direction": "rtl",
+  "strings": {
+    "app_name": "لينا",
+    "app_subtitle": "محلل الشبكة المترابطة التعليمية",
+    
+    "btn_start": "بدء المجموعة",
+    "btn_stop": "إيقاف المجموعة",
+    "btn_refresh": "تحديث الآن",
+    "btn_send": "إرسال",
+    "btn_settings": "الإعدادات",
+    "btn_retry": "حاول مجددا",
+    "btn_cancel": "إلغاء",
+    "btn_grant": "منح",
+    "btn_deny": "رفض",
+    
+    "status_active": "🟢 نشط (جمع البيانات)",
+    "status_idle": "🟡 خامل",
+    "status_error": "🔴 خطأ",
+    "status_off": "⚫ إيقاف",
+    
+    "label_uptime": "وقت التشغيل",
+    "label_last_scan": "آخر مسح",
+    "label_networks": "الشبكات",
+    "label_devices": "الأجهزة",
+    "label_signal": "متوسط الإشارة",
+    "label_security": "حالة الأمان",
+    "label_activity": "النشاط الأخير",
+    "label_chat": "الدردشة مع لينا",
+    "label_input": "اكتب سؤالك هنا...",
+    "label_network_count": "الشبكات المكتشفة",
+    "label_device_count": "الأجهزة القريبة",
+    "label_best_signal": "أفضل إشارة",
+    "label_worst_signal": "أسوأ إشارة",
+    "label_type": "النوع",
+    "label_wpa2_plus": "WPA2+",
+    "label_wpa2": "WPA2",
+    "label_open": "مفتوح",
+    
+    "msg_welcome": "مرحبا! أنا لينا، مساعدتك في الشبكة. البيانات جاهزة للتحليل. ماذا تريد أن تعرف؟",
+    "msg_error_network": "🔴 خطأ في جمع البيانات. تحقق من اتصالك بالشبكة.",
+    "msg_error_permission": "🔒 المأذونية مطلوبة. لينا بحاجة إلى إذن مسح الشبكة.",
+    "msg_error_ai": "⚠️ فشل الرد الآلي. يرجى المحاولة لاحقا.",
+    "msg_insufficient_data": "البيانات غير متاحة. ابدأ جمع البيانات أولا.",
+    
+    "language_menu": "اختر اللغة",
+    "lang_indonesian": "🇮🇩 Bahasa Indonesia",
+    "lang_english": "🇬🇧 English",
+    "lang_arabic": "🇸🇦 العربية",
+    
+    "tab_overview": "نظرة عامة",
+    "tab_network_data": "بيانات الشبكة",
+    "tab_chat": "الدردشة",
+    
+    "title_main_window": "لينا - محلل الشبكة المترابطة التعليمية",
+    "title_settings": "الإعدادات",
+    "title_about": "عن لينا",
+    
+    "network_summary": "ملخص الشبكة",
+    "device_summary": "ملخص الجهاز",
+    "recent_activity": "النشاط الأخير",
+    "wifi_networks": "شبكات WiFi",
+    "nearby_devices": "الأجهزة القريبة",
+    
+    "device_type_smartphone": "الهاتف الذكي",
+    "device_type_laptop": "جهاز كمبيوتر محمول",
+    "device_type_iot": "جهاز انترنت الأشياء",
+    "device_type_tablet": "الجهاز اللوحي",
+    "device_type_other": "آخر",
+    
+    "info_bssid": "BSSID",
+    "info_signal": "الإشارة",
+    "info_frequency": "التردد",
+    "info_security": "الأمان",
+    "info_mac": "MAC",
+    "info_ip": "عنوان IP",
+    "info_hostname": "اسم المضيف",
+    
+    "about_version": "الإصدار 1.0.0",
+    "about_description": "لينا هي أداة تحليل شبكة دفاعية وقراءة فقط تستخدم ذكاء اصطناعي محلي لتحليل بيانات الشبكة الخاصة بك بشكل أخلاقي ومسؤول.",
+    "about_rights": "© 2026 مشروع لينا. جميع الحقوق محفوظة.",
+    
+    "loading": "جاري التحميل...",
+    "connecting": "جاري الاتصال...",
+    "collecting": "جمع البيانات...",
+    "processing": "المعالجة...",
+    "ready": "جاهز"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "language": "English",
+  "locale": "en_US",
+  "strings": {
+    "app_name": "LINA",
+    "app_subtitle": "Learning Interconnected Network Analyzer",
+    
+    "btn_start": "Start Collection",
+    "btn_stop": "Stop Collection",
+    "btn_refresh": "Refresh Now",
+    "btn_send": "Send",
+    "btn_settings": "Settings",
+    "btn_retry": "Retry",
+    "btn_cancel": "Cancel",
+    "btn_grant": "Grant",
+    "btn_deny": "Deny",
+    
+    "status_active": "🟢 Active (Collecting data)",
+    "status_idle": "🟡 Idle",
+    "status_error": "🔴 Error",
+    "status_off": "⚫ Off",
+    
+    "label_uptime": "Uptime",
+    "label_last_scan": "Last scan",
+    "label_networks": "Networks",
+    "label_devices": "Devices",
+    "label_signal": "Average signal",
+    "label_security": "Security Status",
+    "label_activity": "Recent Activity",
+    "label_chat": "Chat with LINA",
+    "label_input": "Type your question here...",
+    "label_network_count": "Networks detected",
+    "label_device_count": "Devices nearby",
+    "label_best_signal": "Best signal",
+    "label_worst_signal": "Worst signal",
+    "label_type": "Type",
+    "label_wpa2_plus": "WPA2+",
+    "label_wpa2": "WPA2",
+    "label_open": "Open",
+    
+    "msg_welcome": "Hello! I'm LINA, your network assistant. Data is ready for analysis. What would you like to know?",
+    "msg_error_network": "🔴 Error collecting data. Check your network connection.",
+    "msg_error_permission": "🔒 Permission required. LINA needs network scanning permission.",
+    "msg_error_ai": "⚠️ AI response failed. Please try again later.",
+    "msg_insufficient_data": "Data not available. Start data collection first.",
+    
+    "language_menu": "Select Language",
+    "lang_indonesian": "🇮🇩 Bahasa Indonesia",
+    "lang_english": "🇬🇧 English",
+    "lang_arabic": "🇸🇦 العربية",
+    
+    "tab_overview": "Overview",
+    "tab_network_data": "Network Data",
+    "tab_chat": "Chat",
+    
+    "title_main_window": "LINA - Learning Interconnected Network Analyzer",
+    "title_settings": "Settings",
+    "title_about": "About LINA",
+    
+    "network_summary": "Network Summary",
+    "device_summary": "Device Summary",
+    "recent_activity": "Recent Activity",
+    "wifi_networks": "WiFi Networks",
+    "nearby_devices": "Nearby Devices",
+    
+    "device_type_smartphone": "Smartphone",
+    "device_type_laptop": "Laptop",
+    "device_type_iot": "IoT Device",
+    "device_type_tablet": "Tablet",
+    "device_type_other": "Other",
+    
+    "info_bssid": "BSSID",
+    "info_signal": "Signal",
+    "info_frequency": "Frequency",
+    "info_security": "Security",
+    "info_mac": "MAC",
+    "info_ip": "IP Address",
+    "info_hostname": "Hostname",
+    
+    "about_version": "Version 1.0.0",
+    "about_description": "LINA is a defensive, read-only network analysis tool using local AI to analyze your network metadata ethically and responsibly.",
+    "about_rights": "© 2026 LINA Project. All rights reserved.",
+    
+    "loading": "Loading...",
+    "connecting": "Connecting...",
+    "collecting": "Collecting data...",
+    "processing": "Processing...",
+    "ready": "Ready"
+  }
+}
