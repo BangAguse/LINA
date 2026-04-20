@@ -1,0 +1,12 @@
+{
+  "app_name": "LINA",
+  "btn_start": "▶ START",
+  "btn_stop": "⏹ STOP",
+  "btn_refresh": "🔄 REFRESH",
+  "btn_send": "📤 SEND",
+  "btn_settings": "⚙ SETTINGS",
+  "status_idle": "🟡 Idle",
+  "status_active": "🟢 Active (Collecting data)",
+  "chat_placeholder": "Chat with LINA will appear here...",
+  "input_placeholder": "Type your question here..."
+}

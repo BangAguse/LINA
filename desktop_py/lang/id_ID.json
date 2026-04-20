@@ -1,0 +1,12 @@
+{
+  "app_name": "LINA",
+  "btn_start": "▶ MULAI",
+  "btn_stop": "⏹ BERHENTI",
+  "btn_refresh": "🔄 SEGARKAN",
+  "btn_send": "📤 KIRIM",
+  "btn_settings": "⚙ PENGATURAN",
+  "status_idle": "🟡 Diam",
+  "status_active": "🟢 Aktif (Mengumpulkan data)",
+  "chat_placeholder": "Chat dengan LINA akan muncul di sini...",
+  "input_placeholder": "Ketik pertanyaan Anda di sini..."
+}
