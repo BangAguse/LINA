@@ -1,0 +1,12 @@
+{
+  "app_name": "لينا",
+  "btn_start": "▶ ابدأ",
+  "btn_stop": "⏹ إيقاف",
+  "btn_refresh": "🔄 تحديث",
+  "btn_send": "📤 إرسال",
+  "btn_settings": "⚙ الإعدادات",
+  "status_idle": "🟡 خامِل",
+  "status_active": "🟢 نشِط (يتم جمع البيانات)",
+  "chat_placeholder": "الدردشة مع لينا ستظهر هنا...",
+  "input_placeholder": "اكتب سؤالك هنا..."
+}
