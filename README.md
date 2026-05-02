@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="banner.png" alt="LINA Banner" width="100%" />
+  <img src="https://github.com/BangAguse/Gambar/blob/main/LOGO_LINA-AI.png" alt="LINA Banner" width="100%" />
 
   <h1>Learning Interconnected Network Analyzer</h1>
   <h2>“Aku bikin LINA (Learning Interconnected Network Analyzer) terinspirasi dari ibuku, Herlina Ningsi. Karena beliau pelindungku di dunia nyata, software ini aku dedikasikan untuk jadi pelindung di dunia digital.” 🤍🛡️</h2>
