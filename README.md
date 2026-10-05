@@ -16,7 +16,7 @@
 
 ## Bahasa Indonesia
 
-LINA adalah aplikasi desktop untuk meninjau metadata jaringan lokal dan membuat laporan defensif. Pengumpulan dan pemrosesan data berlangsung di perangkat; LINA tidak menggunakan layanan cloud atau model AI.
+LINA adalah aplikasi desktop untuk meninjau metadata jaringan lokal dan membuat laporan defensif. Pengumpulan dan pemrosesan data berlangsung di perangkat.
 
 ### Unduh LINA
 
@@ -98,7 +98,7 @@ LINA memakai komponen pihak ketiga, termasuk Scapy, PySide6, Nmap, dan Npcap unt
 
 ## English
 
-LINA is a desktop application for reviewing local network metadata and generating defensive reports. Data collection and processing stay on your device; LINA does not use cloud services or AI models.
+LINA is a desktop application for reviewing local network metadata and generating defensive reports. Data collection and processing stay on your device.
 
 ### Download LINA
 
