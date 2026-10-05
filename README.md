@@ -1,6 +1,6 @@
 <div align="center">
 
-# LINA
+<img src="https://raw.githubusercontent.com/BangAguse/Gambar/main/LINA.png" alt="LINA — Learning Interconnected Network Analyzer" width="720">
 
 ### Learning Interconnected Network Analyzer
 
